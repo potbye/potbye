@@ -4,7 +4,7 @@ Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronn
 <details><summary><strong>My Profile</strong></summary>
 ## Profile
 - I have 17 followers.
-- I follow 44 people.
+- I follow 45 people.
 </details>
 <details><summary><strong>State</strong></summary>
 ## State
@@ -22,4 +22,4 @@ Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronn
 - [Kumi The Chubby Bear](https://github.com/kumithechubbybear)
 </details>
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ronnapat.com/)
-Latest update : Mon May  9 03:11:04 2022
+Latest update : Mon May  9 04:03:54 2022
