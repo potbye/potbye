@@ -1,6 +1,9 @@
 
-Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronnapatp 😇
-# 👋🏻 Hey, I'm ronnඞpඞtp
+Profile will auto update every 30 minutes with https://github.com/potbye/potbye 😇
+# 👋🏻 Hey, I'm potbye
+
+This is bot account from [@ronnapatp](https://github.com/ronnapatp)
+
 <details><summary><strong>My Profile</strong></summary>
 ## Profile
 - I have 17 followers.
@@ -21,5 +24,5 @@ Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronn
 - [Profile updater](https://github.com/ronnapatp/ronnapatp)
 - [Kumi The Chubby Bear](https://github.com/kumithechubbybear)
 </details>
-[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ronnapat.com/)
-Latest update : Tue May 10 11:38:04 2022
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ronnapat.com/)]
+Latest update : Tue May 10 12:32:21 2022
