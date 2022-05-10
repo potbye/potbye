@@ -10,8 +10,11 @@ res = requests.get(f'https://api.github.com/users/ronnapatp')
 result = json.loads(res.text)
 
 f.write(f'''
-Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronnapatp 😇
-# 👋🏻 Hey, I'm ronnඞpඞtp
+Profile will auto update every 30 minutes with https://github.com/potbye/potbye 😇
+# 👋🏻 Hey, I'm potbye
+
+This is bot account from [@ronnapatp](https://github.com/ronnapatp)
+
 <details><summary><strong>My Profile</strong></summary>
 ## Profile
 - I have {result['followers']} followers.
@@ -32,7 +35,7 @@ Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronn
 - [Profile updater]({link}ronnapatp)
 - [Kumi The Chubby Bear](https://github.com/kumithechubbybear)
 </details>
-[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ronnapat.com/)
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ronnapat.com/)]
 Latest update : {ctime(t)}
 ''')
 
