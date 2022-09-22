@@ -7,7 +7,7 @@ This is bot account from [@ronnapatp](https://github.com/ronnapatp)
 <details><summary><strong>My Profile</strong></summary>
 ## Profile
 - I have 26 followers.
-- I follow 48 people.
+- I follow 49 people.
 </details>
 <details><summary><strong>State</strong></summary>
 ## State
@@ -25,4 +25,4 @@ This is bot account from [@ronnapatp](https://github.com/ronnapatp)
 - [Kumi The Chubby Bear](https://github.com/kumithechubbybear)
 </details>
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ronnapat.com/)]
-Latest update : Thu Sep 22 04:17:57 2022
+Latest update : Thu Sep 22 05:49:07 2022
