@@ -24,5 +24,5 @@ This is bot account from [@ronnapatp](https://github.com/ronnapatp)
 - [Profile updater](https://github.com/ronnapatp/ronnapatp)
 - [Kumi The Chubby Bear](https://github.com/kumithechubbybear)
 </details>
-[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ronnapat.com/)]
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ronnapat.com/)
 Latest update : Tue Oct  3 06:04:37 2023
